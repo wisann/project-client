@@ -46,12 +46,12 @@ This React application interacts with a backend API to perform CRUD operations o
 
 ## The API endpoints are as follows:
 
-GET /clients: Retrieve all clients
-GET /clients/{id}: Retrieve a client by ID
-POST /clients: Create a new client
-PUT /clients/{id}: Update a client
-DELETE /clients/{id}: Delete a client
-Please refer to the backend code for more details on how the API is implemented.
+- GET /clients: Retrieve all clients
+- GET /clients/{id}: Retrieve a client by ID
+- POST /clients: Create a new client
+- PUT /clients/{id}: Update a client
+- DELETE /clients/{id}: Delete a client
+- Please refer to the backend code for more details on how the API is implemented.
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
